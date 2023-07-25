@@ -1,0 +1,11 @@
+H:\Git Reps\eupotter\Take_Notes_App\bin\Debug\Take_Notes_App.exe.config
+H:\Git Reps\eupotter\Take_Notes_App\bin\Debug\Take_Notes_App.exe
+H:\Git Reps\eupotter\Take_Notes_App\bin\Debug\Take_Notes_App.pdb
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.csproj.AssemblyReference.cache
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.csproj.SuggestedBindingRedirects.cache
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.Form1.resources
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.Properties.Resources.resources
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.csproj.GenerateResource.cache
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.csproj.CoreCompileInputs.cache
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.exe
+H:\Git Reps\eupotter\Take_Notes_App\obj\Debug\Take_Notes_App.pdb
